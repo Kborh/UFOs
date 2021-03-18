@@ -35,4 +35,4 @@
    1. As a recommendation, there should be a reload button created to reset the table to its unfiltered state.
    2. A downloadable button, which will allow users to download the table in either JSON or CSV format, should be put in place.
       
-      This project is a simple example of using D3 to manipulate the DOM and create a table from a small amount of data stored in a JavaScript file. The user can filter the data by any number of parameters and the app.js file will manipulate the DOM and create a table based on the filters.
+   
